@@ -1,0 +1,6 @@
+{
+  "name": "مصحح الأستاذ الآلي",
+  "description": "An AI-powered grading assistant for teachers. Upload an answer key and student exam papers, and let the AI grade them and provide insights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
